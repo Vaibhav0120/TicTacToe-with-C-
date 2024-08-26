@@ -9,6 +9,11 @@
 1. **Single Player Mode**: Play against a smart bot that uses strategic moves to increase the game's difficulty.
 2. **Two Player Mode**: Compete against another human player in a head-to-head match.
 
+
+<br>
+
+
+
 <h2 align="center">Features</h2>
 
 - **Single Player Mode**: 
@@ -19,12 +24,20 @@
   - Enjoy a traditional Tic Tac Toe game with a friend.
   - Take turns on the same computer to see who is the Tic Tac Toe master.
 
+
+<br>
+
+
 <h2 align="center">Getting Started</h1>
 
 ### Prerequisites
 
 - A C++ compiler (e.g., GCC, Clang, MSVC)
 - Basic knowledge of C++ and console operations
+
+
+<br>
+
 
 <h2 align="center">Installation</h2>
 
@@ -43,6 +56,10 @@
    ```bash
    ./tictactoe
    ```
+
+
+<br>
+
 
 <h2 align="center">How to Play</h2>
 
@@ -63,15 +80,27 @@
    - The first player to align three of their symbols vertically, horizontally, or diagonally wins the game.
    - If all 9 squares are filled without a winner, the game ends in a draw.
 
+
+<br>
+
+
 <h1 align="center">Screenshots</h1>
 
 <p align="center">
   <img src="https://github.com/Vaibhav0120/Problem-Solving-In-C/assets/150184948/c3d999b4-7b1e-4089-851c-1bbe3fedde30" width="70%" height="70%">
 </p>
 
+
+<br>
+
+
 <h2 align="center">Contributing</h2>
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+
+<br>
+
 
 <h2 align="center">Acknowledgments</h1>
 
