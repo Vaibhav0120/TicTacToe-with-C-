@@ -88,6 +88,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3a8bf049-20a2-4f00-b2ed-c74e70cd7716" width="70%" height="70%">
+  <br>
+  Example of Gameplay with a Bot
   <img src="https://github.com/user-attachments/assets/afdb9fd9-f466-4253-9eec-7bcd422913d0" width="40%" height="40%">
 </p>
 
