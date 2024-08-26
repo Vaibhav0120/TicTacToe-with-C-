@@ -43,7 +43,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tictactoe-with-cpp.git
+   git clone https://github.com/Vaibhav0120/tictactoe-with-cpp.git
    cd tictactoe-with-cpp
    ```
 
